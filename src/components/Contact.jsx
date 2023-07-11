@@ -1,4 +1,4 @@
-import apiKey from "../../config";
+import apiKey from "../../config.js";
 export default function Contact() {
   return (
     <div
